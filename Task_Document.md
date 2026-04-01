@@ -202,7 +202,7 @@ in [Section 3.1.1](#311-conditions).
 
 ## Task 3.2: Breaking
 
-**Task:** Intentionally break the automation service you established — cause it to
+**Task:** Intentionally break the automation service you established as if you are an external agent the team (say Tung tung sahur) — cause it to
 misbehave or fail. A full **crash** is highly recommended.
 
 Document in detail the exact steps taken. Credits are awarded as follows:
@@ -217,20 +217,3 @@ Provide a detailed write-up of the method used to cause the crash.
 
 ---
 
-## Task 3.3: Debugging
-
-**Task:** Now treat the broken system as if it was sabotaged by an unknown entity
-(say, Tung Tung Sahur) and perform a thorough **bug hunt**.
-
-You are required to provide a detailed report containing:
-- Relevant system logs and kernel hints
-- Your interpretation of the logs
-- Your approach to fixing the issue
-- The final result
-
-Every conclusion must be inferred from logs and system hints. If you are interested,
-you can extend Sections 3.2 and 3.3 to break the system at a kernel level, attach a
-recovery debugger, and fix the kernel. These two sections are your playground to flex
-your knowledge. Good luck.
-
----
