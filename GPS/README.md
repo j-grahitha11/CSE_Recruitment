@@ -32,14 +32,6 @@ Altitude: 15.34 m
 * Valid data is extracted and printed
 * Invalid data is handled safely
 
-## Folder Structure
-
-GPS-Task-1/
-│── README.md
-│── report/
-│   └── GPS_Report.md
-│── code/
-│   └── gps_reading.ino
 
 ## Author
 
