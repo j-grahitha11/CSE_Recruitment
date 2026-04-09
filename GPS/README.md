@@ -27,13 +27,24 @@ Altitude: 15.34 m
 
 ## How it Works
 
-* Simulated GPS data generates NMEA sentences
+* Simulated GPS generates NMEA sentences
 * TinyGPS++ parses incoming data
 * Valid data is extracted and printed
 * Invalid data is handled safely
 
+## Folder Structure
+
+GPS-Task-1/
+│── README.md
+│── GPS_Report.md
+│── gps_reading.ino
 
 ## Author
 
 * J Grahitha
 * BL.SC.U4AIE25218
+
+## References
+
+* GPS Module Interfacing with Arduino – ElectronicWings
+  https://www.electronicwings.com/arduino/gps-module-interfacing-with-arduino-uno
